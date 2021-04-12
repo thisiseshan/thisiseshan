@@ -23,7 +23,7 @@ I'm Eshan and welcome to my space. I am a Computer Engineering undergrad student
 I am intrigued my the mathemtics that gives rise to Deep Learning and harbor a deep passion for computer vision.
 <br>
 
-Welcome to my GitHub profile 😄
+This page is under construction 👷🏻‍♂️
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thisiseshan&count_private=true" alt="thisiseshan" />
 
 If you want to find me on the internet, I am @thisiseshan everywhere.
