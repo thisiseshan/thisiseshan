@@ -17,9 +17,11 @@
   <img align="left" alt="Eshan's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
+<br />
 
 I'm Eshan and welcome to my space. I am a Computer Engineering undergrad student at NIT Surat, 
 I am intrigued my the mathemtics that gives rise to Deep Learning and harbor a deep passion for computer vision.
+<br />
 
 Welcome to my GitHub profile 😄
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thisiseshan&count_private=true" alt="thisiseshan" />
