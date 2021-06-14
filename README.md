@@ -1,4 +1,3 @@
-
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--
 **thisiseshan/thisiseshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +22,8 @@ I'm Eshan and welcome to my space. I am a Computer Engineering undergrad student
 I am intrigued my the mathemtics that gives rise to Deep Learning and harbor a deep passion for computer vision.
 <br>
 
-This page is under construction 👷🏻‍♂️
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thisiseshan&count_private=true" alt="thisiseshan" />
+<br>
+
+<p align="center"> ![when love for geometric art goes too far](https://user-images.githubusercontent.com/39293757/121852335-61d56080-cd00-11eb-8f5c-611a53b7a37f.png) <img src="https://github-readme-stats.vercel.app/api?username=thisiseshan&count_private=true" alt="thisiseshan" />
 
 If you want to find me on the internet, I am @thisiseshan everywhere.
