@@ -24,6 +24,6 @@ I am intrigued my the mathemtics that gives rise to Deep Learning and harbor a d
 
 <br>
 
-<p align="center"> ![when love for geometric art goes too far](https://user-images.githubusercontent.com/39293757/121852335-61d56080-cd00-11eb-8f5c-611a53b7a37f.png) <img src="https://github-readme-stats.vercel.app/api?username=thisiseshan&count_private=true" alt="thisiseshan" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thisiseshan&count_private=true" alt="thisiseshan" />
 
-If you want to find me on the internet, I am @thisiseshan everywhere.
+If you want to find me on the internet, I am @thisiseshan everywhere!
