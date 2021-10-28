@@ -19,7 +19,7 @@
 <br>
 <br>
 I'm Eshan and welcome to my space. I am a Computer Engineering undergradatuate from NIT Surat, 
-I am intrigued my the mathemtics behind rise to Deep Learning and harbor a deep passion for computer vision.
+I am intrigued by the mathemtics behind Deep Learning and harbor a passion for computer vision and computer music.
 <br>
 
 <br>
