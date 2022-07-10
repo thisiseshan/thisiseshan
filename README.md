@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+### Hi there 👋🏻
 <!--
 **thisiseshan/thisiseshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -10,7 +10,7 @@
   <img align="left" alt="Eshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/q99shu0bc0yjpalfsj1jtfpil?si=eb7eda148dad45af">
-  <img align="left" alt="Eshan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Eshan's Spotify" width="22px" src="https://github.com/itstommi/Spotify-Readme/blob/main/spotify.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCTcRabd_bBYAdautJTbFqEg">
   <img align="left" alt="Eshan's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
